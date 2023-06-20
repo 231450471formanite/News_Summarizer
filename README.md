@@ -1,4 +1,3 @@
-# News_Summarizer
 # Document Summarization with Transformers
 
 This project demonstrates document summarization using the BART (Bidirectional and Auto-Regressive Transformers) model. The BART model is a large pre-trained transformer-based model that is fine-tuned for text generation tasks, including document summarization.
